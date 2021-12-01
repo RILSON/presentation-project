@@ -1,0 +1,2 @@
+Profissional atuante a mais de 10 anos na área de análise e desenvolvimento de sistemas, atuou em grandes empresas da Administração Pública, Saúde, Fábricas de Software e Institutos de Pesquisa.
+Especialista em Gestão eletrônica de Documentos (GED), experiência com C# (com XAML e .NET),C, Java (desktop e web), Grails, AS3 (para desktop, web e mobiles, intergrado com flash), PHP, Oracle, MySQL, SQL Server, Postgres SQL, FileNet P8 (IBM), Documentum (OpenText) e conhecimento em desenvolvimento de aplicativos Windows 8. Atualmente trabalhando com Kotlin, Android.
